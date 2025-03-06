@@ -6,10 +6,10 @@ This script only sends the **first 5 characters of the SHA-1 password hash** to 
 ---
 
 ## 🚀 Features
--🔹 Uses **HIBP API** to check for leaked password hashes.
--🔹 Sends only **the first 5 characters of the hash** for privacy protection.
--🔹 **JSON output**, making it easy to integrate into other applications.
--🔹 **Input validation** to prevent invalid requests and security issues.
+🔹 Uses **HIBP API** to check for leaked password hashes.\
+🔹 Sends only **the first 5 characters of the hash** for privacy protection.\
+🔹 **JSON output**, making it easy to integrate into other applications.\
+🔹 **Input validation** to prevent invalid requests and security issues.\
 
 ---
 
