@@ -28,11 +28,11 @@ This script only sends the **first 5 characters of the SHA-1 password hash** to 
 ## 🔍 Usage PHP
 1. **Using a web browser:**  
    ```
-   http://yourserver.com/check_password.php?hash=CBFDA
+   http://yourserver.com/pwbreach.php?hash=CBFDA
    ```
 2. **Using curl in the terminal:**  
    ```bash
-   curl "http://yourserver.com/check_password.php?hash=CBFDA"
+   curl "http://yourserver.com/pwbreach.php?hash=CBFDA"
    ```
 3. **JSON Output Example:**  
    ```json
