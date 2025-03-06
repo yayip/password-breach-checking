@@ -71,7 +71,7 @@ This script only sends the **first 5 characters of the SHA-1 password hash** to 
 2. **The first 5 characters of the hash are sent to HIBP API.**  
    - Example:  
      ```
-     API Request: http://yourserver.com/check_password.php?hash=A94A8
+     API Request: http://yourserver.com/pwbreach.php?hash=A94A8
      ```
 3. **HIBP returns all hashes starting with those 5 characters.**
 4. **The script checks if the full hash exists in the returned data.**
